@@ -46,7 +46,7 @@ In `scad/presets/default.scad`:
 
 ## Images
 
-![OpenSCAD preview](docs/images/openscad_preview.png)
+![OpenSCAD preview](docs/images/pi_switch_cable_tunnel_v0_1_0.png)
 
 (Optional)
 ![Installed](docs/images/installed_photo.jpg)
