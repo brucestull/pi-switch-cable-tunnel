@@ -60,4 +60,3 @@ The “official” downloadable STLs for each version are also attached to GitHu
 
 Choose a license that matches your intent (MIT is common for OpenSCAD projects).
 See `LICENSE`.
-# pi-switch-cable-tunnel
