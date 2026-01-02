@@ -1,0 +1,11 @@
+# OpenSCAD backups / temp
+*.bak
+*~
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# If you decide NOT to commit large exports later:
+# exports/
